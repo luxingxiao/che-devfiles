@@ -1,0 +1,3 @@
+- override:
+    sidecar:
+      memoryLimit: 2Gi
