@@ -16,6 +16,24 @@ components:
         - 'https://github.com/redhat-developer/codeready-workspaces-vscode-extensions/releases/download/7.44-che-assets/cdt-vscode-0.0.7-75cf95.vsix'
         - 'https://github.com/redhat-developer/codeready-workspaces-vscode-extensions/releases/download/7.44-che-assets/cdt-gdb-vscode-0.0.91-2cbbb8.vsix'
         - 'https://github.com/redhat-developer/codeready-workspaces-vscode-extensions/releases/download/7.44-che-assets/vscode-clangd-0.1.5-562d00.vsix'
+        - "http://gitlab.ks.x/cloud-ide/ide/plugins/uploads/7252681f5df6e3bc96bfab268ce42051/cdtcloud-clangd-contexts-ext-0.8.0.vsix"
+        - "http://gitlab.ks.x/cloud-ide/ide/plugins/uploads/acc2250326a1763c45ea008c5af60fa2/cschlosser.doxdocgen-1.4.0.vsix"
+        - "http://gitlab.ks.x/cloud-ide/ide/plugins/uploads/9010b935df4286301506e51787a2b9e8/donjayamanne.githistory-0.6.19.vsix"
+        - "http://gitlab.ks.x/cloud-ide/ide/plugins/uploads/d238c258db89a23fcd50f66b98048d9f/eclipse-cdt.cdt-gdb-vscode-0.0.92.vsix"
+        - "http://gitlab.ks.x/cloud-ide/ide/plugins/uploads/304ee9b26b7459e1f833529df812e8a5/jbenden.c-cpp-flylint-1.11.0.vsix"
+        - "http://gitlab.ks.x/cloud-ide/ide/plugins/uploads/4fe6faf8898bb3f996dc4b9ab3dc3966/llvm-vs-code-extensions.vscode-clangd-0.1.15.vsix"
+        - "http://gitlab.ks.x/cloud-ide/ide/plugins/uploads/7df035a6cd5cb28693eed1a2e03c7ba6/mhutchie.git-graph-1.30.0.vsix"
+        - "http://gitlab.ks.x/cloud-ide/ide/plugins/uploads/f3823676e44b2b801c4199d9d1665112/ms-azuretools.vscode-docker-1.22.0.vsix"
+        - "http://gitlab.ks.x/cloud-ide/ide/plugins/uploads/37a0dd67219c7fab640c15c7873efa23/MS-CEINTL.vscode-language-pack-zh-hans-1.69.0.vsix"
+        - "http://gitlab.ks.x/cloud-ide/ide/plugins/uploads/49b8f0874d9ff6fb9f3e0e2f323b845d/ms-toolsai.jupyter-renderers-1.0.6.vsix"
+        - "http://gitlab.ks.x/cloud-ide/ide/plugins/uploads/e034a49ffde09a4aef489990b389090e/ms-vscode.cmake-tools-1.11.26.vsix"
+        - "http://gitlab.ks.x/cloud-ide/ide/plugins/uploads/70518794e403364ee26a2e108ff55a05/ms-vscode.cpptools-1.11.2_linux-x64.vsix"
+        - "http://gitlab.ks.x/cloud-ide/ide/plugins/uploads/38325281cb22e95b0a9a4dd339fe9e91/ms-vscode.makefile-tools-0.5.0.vsix"
+        - "http://gitlab.ks.x/cloud-ide/ide/plugins/uploads/2a5be0199ae8ba70d8be05e8247ba6f1/notskm.clang-tidy-0.5.1.vsix"
+        - "http://gitlab.ks.x/cloud-ide/ide/plugins/uploads/17674563c1d4020e2969d107ed471853/rust-lang.rust-0.7.8.vsix"
+        - "http://gitlab.ks.x/cloud-ide/ide/plugins/uploads/87ebe5c34ef2ac1bfa342cfeceab9146/twxs.cmake-0.0.17.vsix"
+        - "http://gitlab.ks.x/cloud-ide/ide/plugins/uploads/bcd1b1fe576480ae0050c2d9ccbc81ef/vscode.cpp-1.62.3.vsix"
+        - "http://gitlab.ks.x/cloud-ide/ide/plugins/uploads/478cf30845718b1d81a21bfa3f13405e/yzhang.markdown-all-in-one-3.5.0.vsix"
     container:
       args:
         - sh
