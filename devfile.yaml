@@ -1,8 +1,8 @@
 schemaVersion: 2.1.0
 metadata:
-  name: adatabus
-  displayName: 车载网络通讯开发
-  description: 基于aDataBus技术栈进行DDS开发
+  name: cppexample
+  displayName: C/C++示例
+  description: 模板
   icon: https://cyclonedds.io/images/cyclonedds.png
 projects:
   - name: dds-hello-world
