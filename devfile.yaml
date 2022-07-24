@@ -56,7 +56,7 @@ components:
       sourceMapping: /projects
       volumeMounts:
         - name: remote-endpoint
-          path: /remote-endpoint
+          path: /remote-endpoint-1
         - name: plugins
-          path: /plugins
+          path: /plugins-1
     name: tools
